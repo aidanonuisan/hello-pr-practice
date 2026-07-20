@@ -1,6 +1,6 @@
 # Hello PR Practice
 
-This is a smple project for practicing my first Pull Request on GitHub.
+This is a simple project for practicing my first Pull Request on GitHub.
 
 ## What this project does
 
